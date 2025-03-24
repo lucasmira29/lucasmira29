@@ -49,5 +49,3 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
-
-Sou apaixonado por tecnologia e estou sempre buscando melhorar minhas habilidades enquanto enfrento novos desafios.
